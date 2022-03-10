@@ -1,62 +1,46 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Bookstore
 
-> Description the project.
+> A website that allows you to display a list of books, add a new book or remove a selected book from the list.
 
 
 ## Built With
 
 - Major languages
-- Frameworks
+- React & Redux
 - Technologies used
+  Webpack, Git
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://livedemo.com)
+[..coming soon](https://livedemo.com)
 
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
-
-### Setup
+### Clone the repo [Bookstore](git@github.com:myelin0/Bookstore.git) to your local computer 
 
 ### Install
-
+run npm install on your terminal to install all the dependencies.
 ### Usage
-
-### Run tests
-
-### Deployment
-
-
+run npm start to open the project in your local server
 
 ## Authors
 
-👤 **Author1**
+👤 **Emirjeta Veisllari**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@myelin0](https://github.com/myelin0)
+- Twitter: [@Amy_Albania](https://twitter.com/Amy_albania)
+- LinkedIn: [@Emirjeta Veisllari](https://www.linkedin.com/in/emirjeta-veisllari/)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/myelin0/Bookstore/issues).
 
 ## Show your support
 
