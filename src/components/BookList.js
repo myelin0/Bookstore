@@ -5,6 +5,8 @@ const BookList =()=>{
   return(
   <ul>
     <BookItem/>
+    <BookItem/>
+    <BookItem/>
   </ul>
   )
 }
