@@ -2,7 +2,7 @@ import React from 'react';
 import { NavLink } from 'react-router-dom';
 
 const NavBar = () => {
-const links = [
+  const links = [
     {
       id: 1,
       path: '/',
@@ -30,7 +30,7 @@ const links = [
           ))}
         </ul>
         <div className="avatar">
-          <i className='fa fa-user'></i>
+          <i className="fa fa-user" />
         </div>
       </nav>
     </>

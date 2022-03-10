@@ -1,3 +1,3 @@
-const Categories =()=>{ return <p>Under Construction</p>}
+const Categories = () => <p>Under Construction</p>;
 
 export default Categories;

@@ -2,11 +2,9 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 
-
 import NavBar from './components/NavBar';
 import Books from './components/Books';
-import Categories from './pages/categories'
-
+import Categories from './pages/categories';
 
 ReactDOM.render(
   <React.StrictMode>
